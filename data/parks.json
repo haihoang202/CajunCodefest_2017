@@ -1,0 +1,405 @@
+{
+	"meta": ["NAME","ACRES","CHARACTERI"],
+	"type": "FeatureCollection",
+	"features": [{
+		"properties": {
+			"NAME": "EXCHANGE PARK/ VETERAN'S PARK",
+			"ACRES": 5.26011479,
+			"CHARACTERI": " Veteran's wall naming all deceased Acadiana veterans having served in Vietnam, natural wildlife, covered picnic areas with grills, restrooms, playground, fishing pond, commermorative markers. "
+		},
+		"geometry": {
+			"x": -92.0142939086175,
+			"y": 30.1797907597999
+		}
+	}, {
+		"properties": {
+			"NAME": "PICARD PARK",
+			"ACRES": 25.17224722,
+			"CHARACTERI": " Tennis courts, soccer fields, ball parks, lighted fields, t-ball field, jogging trail, covered picnic areas, playground "
+		},
+		"geometry": {
+			"x": -92.0731815813868,
+			"y": 30.1173117663013
+		}
+	}, {
+		"properties": {
+			"NAME": "PARC PUTNAM",
+			"ACRES": 0.0,
+			"CHARACTERI": " Located at 201 E. Vermillion St. it includes a gazebo, grassy areas and a large fountain, which is a favorite among park goers, THis park is used for concerts, races, weddings and more. "
+		},
+		"geometry": {
+			"x": -92.020703480253,
+			"y": 30.2252058160863
+		}
+	}, {
+		"properties": {
+			"NAME": "DERBY PLAYGROUND",
+			"ACRES": 0.0,
+			"CHARACTERI": " Playground, basketball "
+		},
+		"geometry": {
+			"x": -91.9741016778615,
+			"y": 30.2398955835792
+		}
+	}, {
+		"properties": {
+			"NAME": "ARCENEAUX PARK",
+			"ACRES": 29.2813486,
+			"CHARACTERI": " Tennis courts, soccer fields, basketball courts, lighted ball fields, batting cages, t-ball, covered picnic areas, playground "
+		},
+		"geometry": {
+			"x": -91.9530212468733,
+			"y": 30.1502778854065
+		}
+	}, {
+		"properties": {
+			"NAME": "GRAHAM BROWN MEMORIAL PARK",
+			"ACRES": 49.29288503,
+			"CHARACTERI": " George Dupuis Recreation Center, work-out station, jogging trail, batting practice areas, lighted tennis courts, covered "
+		},
+		"geometry": {
+			"x": -91.9945428026975,
+			"y": 30.270323359545
+		}
+	}, {
+		"properties": {
+			"NAME": "J. Otto Broussard Memorial Park (Southside Regional Park)",
+			"ACRES": 223.62851135,
+			"CHARACTERI": " Fabacher Field Baseball Complex, pond, Les Vieux Chenes 18-hole golf course, clubhouse and pro shop, cart rentals, driving range "
+		},
+		"geometry": {
+			"x": -91.9928171459844,
+			"y": 30.1404237527611
+		}
+	}, {
+		"properties": {
+			"NAME": "J W JAMES PARK",
+			"ACRES": 3.88043449,
+			"CHARACTERI": " Fabacher Field Baseball Complex, pond, Les Vieux Chenes 18-hole golf course, clubhouse and pro shop, cart rentals, driving range "
+		},
+		"geometry": {
+			"x": -92.0289454374118,
+			"y": 30.2336148934231
+		}
+	}, {
+		"properties": {
+			"NAME": "DORSEY/DONLON PARK",
+			"ACRES": 7.13261036,
+			"CHARACTERI": " MLK Recreation Center, outdoor pool, tennis courts, basketball courts, ball parks, jogging trail, covered picnic areas with grills, playground "
+		},
+		"geometry": {
+			"x": -92.0269440475175,
+			"y": 30.2460290691797
+		}
+	}, {
+		"properties": {
+			"NAME": "MOUTON PARK",
+			"ACRES": 5.98817606,
+			"CHARACTERI": " Open play area, tennis courts, basketball courts, covered picnic areas with grills, playground "
+		},
+		"geometry": {
+			"x": -91.9947944697562,
+			"y": 30.2396706744885
+		}
+	}, {
+		"properties": {
+			"NAME": "JUDICE PARK",
+			"ACRES": 22.97938922,
+			"CHARACTERI": " Open play area, basketball courts, backstop ball diamond, covered picnic areas with grills, playground "
+		},
+		"geometry": {
+			"x": -92.1519477213833,
+			"y": 30.1631208038538
+		}
+	}, {
+		"properties": {
+			"NAME": "DUSON PARK",
+			"ACRES": 27.83233964,
+			"CHARACTERI": " Covered pavilion with lights & benches, open play area, ball parks w/ lighted fields, t-ball, covered picnic areas with grills, playground "
+		},
+		"geometry": {
+			"x": -92.1828315060146,
+			"y": 30.2226364223285
+		}
+	}, {
+		"properties": {
+			"NAME": "FOSTER MEMORIAL PARK",
+			"ACRES": 14.37877197,
+			"CHARACTERI": " Open play area, tennis courts, soccer fields, basketball courts, lighted ball fields, batting cages, walking track, covered picnic areas, playground, historic markers "
+		},
+		"geometry": {
+			"x": -91.9970371913268,
+			"y": 30.0946799972782
+		}
+	}, {
+		"properties": {
+			"NAME": "ST ANTHONY PARK",
+			"ACRES": 1.74718301,
+			"CHARACTERI": " Basketball courts, covered picnic areas with grills, playground "
+		},
+		"geometry": {
+			"x": -92.0262213978602,
+			"y": 30.2395239040569
+		}
+	}, {
+		"properties": {
+			"NAME": "ACADIANA PARK",
+			"ACRES": 116.97746698,
+			"CHARACTERI": " Open play, lighted tennis courts, basketball court, baseball field, picnic areas, playground, campground, trails, nature station, historic interpretation "
+		},
+		"geometry": {
+			"x": -91.9824115015924,
+			"y": 30.2587486740058
+		}
+	}, {
+		"properties": {
+			"NAME": "BEAULLIEU PARK",
+			"ACRES": 30.02483597,
+			"CHARACTERI": " Comeaux Recreation Center, soccer fields, ball fields, batting cages, trails, covered picnic areas, playground "
+		},
+		"geometry": {
+			"x": -92.0370204766407,
+			"y": 30.1538726972364
+		}
+	}, {
+		"properties": {
+			"NAME": "CARENCRO PARK",
+			"ACRES": 17.00818585,
+			"CHARACTERI": " Open play area, tennis courts, basketball courts, lighted ball fields, t-ball, covered picnic areas, playground "
+		},
+		"geometry": {
+			"x": -92.0536490157038,
+			"y": 30.30952753776
+		}
+	}, {
+		"properties": {
+			"NAME": "Dalton 'Pee Wee' LeBlanc Park",
+			"ACRES": 3.01240879,
+			"CHARACTERI": " Basketball courts, baseball, covered picnic area, playground "
+		},
+		"geometry": {
+			"x": -91.9707154103455,
+			"y": 30.2374706868973
+		}
+	}, {
+		"properties": {
+			"NAME": "BROADMOOR PARK",
+			"ACRES": 7.1276546,
+			"CHARACTERI": " Ball fields, covered picnic areas "
+		},
+		"geometry": {
+			"x": -92.0583009830836,
+			"y": 30.1737831667848
+		}
+	}, {
+		"properties": {
+			"NAME": "CITY PARK",
+			"ACRES": 101.92793262,
+			"CHARACTERI": " Domingue Recreation Center, 18-hole golf course and clubhouse, Mouton Swimming Pool & Bath House, Clark Field (lighted football and soccer stadium basketball courts, baseball), picnic areas, playground "
+		},
+		"geometry": {
+			"x": -92.0074149724643,
+			"y": 30.2323941992921
+		}
+	}, {
+		"properties": {
+			"NAME": "PARC SANS SOUCI",
+			"ACRES": 0.0,
+			"CHARACTERI": " Is the smallest of the three downtown parks and is located in front of the Courthouse. The parc offers benches and beautiful landscaping. "
+		},
+		"geometry": {
+			"x": -92.0177180401887,
+			"y": 30.2241443635205
+		}
+	}, {
+		"properties": {
+			"NAME": "NEYLAND PARK",
+			"ACRES": 30.14124786,
+			"CHARACTERI": " Robicheaux Recreation Center, Earl J. Chris Natatorium (Olympic-size heated indoor pool), tennis courts, basketball courts, lighted ball fields, batting cages, covered picnic areas with grills, playground, historical markers "
+		},
+		"geometry": {
+			"x": -92.0722252168351,
+			"y": 30.2147565483761
+		}
+	}, {
+		"properties": {
+			"NAME": "SCOTT PARK",
+			"ACRES": 14.69156017,
+			"CHARACTERI": " Jogging trail, backstop ball diamond, lighted fields, covered picnic areas with grills, restrooms, playground "
+		},
+		"geometry": {
+			"x": -92.095346002318,
+			"y": 30.2425950164981
+		}
+	}, {
+		"properties": {
+			"NAME": "MOORE PARK",
+			"ACRES": 131.74181248,
+			"CHARACTERI": " Soccer complex (20-30 fields), lighted soccer fields, lighted softball fields, youth football field, covered picnic areas, hiking trail, go-kart track, restrooms, children’s playground, and fishing pond "
+		},
+		"geometry": {
+			"x": -92.0319613730822,
+			"y": 30.2690814824288
+		}
+	}, {
+		"properties": {
+			"NAME": "CHARGOIS PARK",
+			"ACRES": 9.59138416,
+			"CHARACTERI": " Open play area, tennis courts, soccer fields, basketball courts, lighted ball fields, covered picnic areas, playground, historic markers "
+		},
+		"geometry": {
+			"x": -92.067918194165,
+			"y": 30.1966619622852
+		}
+	}, {
+		"properties": {
+			"NAME": "PARC INTERNATIONAL",
+			"ACRES": 0.0,
+			"CHARACTERI": " Located on the corner of Garfield and Polk St. in downtown. The largest of the 3 downtown parks, Parc International is gated, includes a stabe, 2 backstage dressing rooms, 2 public restrooms, 2 water fountains, 2 pavillions and an equipment room "
+		},
+		"geometry": {
+			"x": -92.0173253814523,
+			"y": 30.2255616286805
+		}
+	}, {
+		"properties": {
+			"NAME": "LIL WOODS PARK",
+			"ACRES": 2.77079406,
+			"CHARACTERI": " Basketball courts, covered picnic areas "
+		},
+		"geometry": {
+			"x": -92.0039712794397,
+			"y": 30.2144233091715
+		}
+	}, {
+		"properties": {
+			"NAME": "DEBAILLON PARK",
+			"ACRES": 32.12993933,
+			"CHARACTERI": " Lighted pavilion with picnic tables, 2 lighted flag football fields, 1-mile walking/bicycle trail through park, tennis courts, basketball courts, picnic areas, playground "
+		},
+		"geometry": {
+			"x": -92.0435115574668,
+			"y": 30.242944161667
+		}
+	}, {
+		"properties": {
+			"NAME": "PLANTATION PARK",
+			"ACRES": 11.32067298,
+			"CHARACTERI": " Lighted ball fields "
+		},
+		"geometry": {
+			"x": -92.0314065210879,
+			"y": 30.1684758980122
+		}
+	}, {
+		"properties": {
+			"NAME": "PARC DE LAFAYETTE",
+			"ACRES": 0.11481403,
+			"CHARACTERI": " Small bandstand, waterfall fountain with small pool, benches, and commemorative markers "
+		},
+		"geometry": {
+			"x": -92.0182560330841,
+			"y": 30.2246940370509
+		}
+	}, {
+		"properties": {
+			"NAME": "HORSE FARM?",
+			"ACRES": 99.89891706,
+			"CHARACTERI": "   "
+		},
+		"geometry": {
+			"x": -92.0354430404203,
+			"y": 30.196142131612
+		}
+	}, {
+		"properties": {
+			"NAME": "OAKLAWN PARK/ERASTE LANDRY PLAYGROUND",
+			"ACRES": 6.30907302,
+			"CHARACTERI": " Baseball backstops, benches, open play area, covered picnic areas with grills, playground. "
+		},
+		"geometry": {
+			"x": -92.0403509468107,
+			"y": 30.2290681123962
+		}
+	}, {
+		"properties": {
+			"NAME": "PA DAVIS PARK",
+			"ACRES": 10.04886121,
+			"CHARACTERI": " Bowles Activity Center, jogging trail, lighted soccer field, basketball courts, lighted ball fields, covered picnic areas, 18-hole disc golf course, playground and therapeutic playground area "
+		},
+		"geometry": {
+			"x": -91.9919374069893,
+			"y": 30.2244038434002
+		}
+	}, {
+		"properties": {
+			"NAME": "BEAVER PARK",
+			"ACRES": 17.32369078,
+			"CHARACTERI": " Tennis center, ball parks, covered picnic areas, playgrounds, fishing pond with pier/boat ramp, historic interpretation, large pavilion "
+		},
+		"geometry": {
+			"x": -91.9932915720726,
+			"y": 30.2139242820713
+		}
+	}, {
+		"properties": {
+			"NAME": "YOUTH PARK",
+			"ACRES": 6.99636968,
+			"CHARACTERI": "   "
+		},
+		"geometry": {
+			"x": -92.0247369566771,
+			"y": 30.2115335163647
+		}
+	}, {
+		"properties": {
+			"NAME": "THOMAS PARK",
+			"ACRES": 17.64344554,
+			"CHARACTERI": " Thomas Park Recreation Center, jogging path, tennis clubhouse, lighted tennis courts, hitting wall, soccer fields, ball parks, basketball court, playground "
+		},
+		"geometry": {
+			"x": -92.06011785234,
+			"y": 30.1825841807595
+		}
+	}, {
+		"properties": {
+			"NAME": "GIRARD PARK",
+			"ACRES": 33.80665664,
+			"CHARACTERI": " Main Office, outdoor pool, jogging trail, work-out station, covered pavilion with restrooms and grill, open play area, tennis courts, hitting wall, BB courts, BBfield, covered picnic areas, 9-hole disc golf course, pond, natural wildlife, "
+		},
+		"geometry": {
+			"x": -92.0206967713474,
+			"y": 30.2048093239388
+		}
+	}, {
+		"properties": {
+			"NAME": "HEYMANN MEMORIAL PARK",
+			"ACRES": 2.98355573,
+			"CHARACTERI": "   "
+		},
+		"geometry": {
+			"x": -92.0224418527588,
+			"y": 30.2003617547832
+		}
+	}, {
+		"properties": {
+			"NAME": "I.R. 'Bud' Chalmers Park",
+			"ACRES": 183.23850498,
+			"CHARACTERI": " Wetlands Golf Course and Driving Range "
+		},
+		"geometry": {
+			"x": -92.0502648227555,
+			"y": 30.2590592820178
+		}
+	}, {
+		"properties": {
+			"NAME": "HEYMANN PARK",
+			"ACRES": 26.95393684,
+			"CHARACTERI": " Heymann Park Recreation Center, pavilion, jogging trail, lighted tennis courts, basketball courts, covered picnic areas, playground, regulation baseball field "
+		},
+		"geometry": {
+			"x": -91.9981473725574,
+			"y": 30.2197313411969
+		}
+	}]
+}

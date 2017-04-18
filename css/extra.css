@@ -1,0 +1,24 @@
+#fullsize {
+    position: absolute;
+}
+#fullsize.hidden {
+    display: none;
+}
+
+#img_art {
+    width: 50px;
+    height: 50px;
+    display: block;
+}
+
+#img_art:hover img {
+    position: absolute;
+    transform: scale(60);
+}
+
+
+img:hover {
+    transform: scale(2.5);
+}
+
+/*Author: Hoang Pham*/

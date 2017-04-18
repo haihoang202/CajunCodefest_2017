@@ -1,0 +1,1233 @@
+{
+	"meta": ["NAME","ADDRESS","ARCH_TYPE","CONST_DATE","SDE_PHOTOS"],
+	"type": "FeatureCollection",
+	"features": [{
+		"properties": {
+			"NAME": "WHITFIELD HOUSE",
+			"ADDRESS": "305 FAILLA RD",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1910",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/051-Whitfield.jpg"
+		},
+		"geometry": {
+			"x": -92.0190164616424,
+			"y": 30.151528474605886
+		}
+	}, {
+		"properties": {
+			"NAME": "POCHÉ BUILDING",
+			"ADDRESS": "203 W VERMILION ST",
+			"ARCH_TYPE": "COMMERCIAL VERNACULAR",
+			"CONST_DATE": "1920",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/052-PocheBuilding.jpg"
+		},
+		"geometry": {
+			"x": -92.020006188296037,
+			"y": 30.223882567314305
+		}
+	}, {
+		"properties": {
+			"NAME": "GRÖHEIM",
+			"ADDRESS": "204 VERSAILLES BLVD",
+			"ARCH_TYPE": "NORMANDY REVIVAL",
+			"CONST_DATE": "1927",
+			"PHOTOS": "GROHEIM",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/050-Groheim.jpg"
+		},
+		"geometry": {
+			"x": -92.0254522805774,
+			"y": 30.225000469797891
+		}
+	}, {
+		"properties": {
+			"NAME": "POLLINGUE-BROWN-TOWN HOUSE",
+			"ADDRESS": "323 E UNIVERSITY AVE",
+			"ARCH_TYPE": "ECLECTIC",
+			"CONST_DATE": "CIRCA 1927",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/049-Pollingue-BrownTownhouse.jpg"
+		},
+		"geometry": {
+			"x": -92.016646671602288,
+			"y": 30.215911434878258
+		}
+	}, {
+		"properties": {
+			"NAME": "HAMILTON HOUSE",
+			"ADDRESS": "100 HAMILTON PL",
+			"ARCH_TYPE": "AMERICAN BUNGALOW",
+			"CONST_DATE": "CIRCA 1920",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/048-HamiltonHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.023118962961135,
+			"y": 30.220683847536076
+		}
+	}, {
+		"properties": {
+			"NAME": "WHITTINGTON-GUENIERE HOUSE",
+			"ADDRESS": "2250 JOHNSTON ST",
+			"ARCH_TYPE": "COLONIAL REVIVAL",
+			"CONST_DATE": "1915",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/047-WhittingtonGueniere.jpg"
+		},
+		"geometry": {
+			"x": -92.031538461509967,
+			"y": 30.210346987680797
+		}
+	}, {
+		"properties": {
+			"NAME": "FREDRICK TOLSON HOUSE",
+			"ADDRESS": "840 BOURQUE RD",
+			"ARCH_TYPE": "COLONIAL REVIVAL",
+			"CONST_DATE": "CIRCA 1905",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/045-DrFredrickTolsonHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.131646534351717,
+			"y": 30.13816756504912
+		}
+	}, {
+		"properties": {
+			"NAME": "HANLEY-GUENO HOUSE",
+			"ADDRESS": "406 N STERLING ST",
+			"ARCH_TYPE": "AMERICAN FOURSQUARE",
+			"CONST_DATE": "CIRCA 1900",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/041-HanleyGuenoHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.0098162109767,
+			"y": 30.232807907531651
+		}
+	}, {
+		"properties": {
+			"NAME": "ELOI GIRARD HOUSE",
+			"ADDRESS": "500 E UNIVERSITY AVE",
+			"ARCH_TYPE": "ENGLISH TUDOR REVIVAL",
+			"CONST_DATE": "1935",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/040-EloiGirardHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.014884189443919,
+			"y": 30.213829585458743
+		}
+	}, {
+		"properties": {
+			"NAME": "BARRIOS HOUSE",
+			"ADDRESS": "411 N STERLING ST",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1902",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/044-BarriosHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.0105029027759,
+			"y": 30.233187490215808
+		}
+	}, {
+		"properties": {
+			"NAME": "SAINT MARY'S ORPHANAGE",
+			"ADDRESS": "605 W SAINT MARY BLVD",
+			"ARCH_TYPE": "SPANISH REVIVAL",
+			"CONST_DATE": "CIRCA 1925",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/043-SaintMarysOrphanage.jpg"
+		},
+		"geometry": {
+			"x": -92.026214181969223,
+			"y": 30.217333015003323
+		}
+	}, {
+		"properties": {
+			"NAME": "NP MOSS SCHOOL",
+			"ADDRESS": "801 MUDD AVE",
+			"ARCH_TYPE": "JACOBEAN REVIVAL",
+			"CONST_DATE": "1925",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/039-NPMossSchool.jpg"
+		},
+		"geometry": {
+			"x": -92.008044768367029,
+			"y": 30.232919938145066
+		}
+	}, {
+		"properties": {
+			"NAME": "MARTIN HOUSE",
+			"ADDRESS": "112 DUNREATH ST",
+			"ARCH_TYPE": "MODIFIED QUEEN ANNE REVIVAL",
+			"CONST_DATE": "1907",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/038-MartinHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.022629677206709,
+			"y": 30.219337714309454
+		}
+	}, {
+		"properties": {
+			"NAME": "WALTER FRANKLIN MILLS HOUSE",
+			"ADDRESS": "312 S PIERCE ST",
+			"ARCH_TYPE": "AMERICAN FOURSQUARE",
+			"CONST_DATE": "1910",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/036-213SPierceStreet.jpg"
+		},
+		"geometry": {
+			"x": -92.01917896242189,
+			"y": 30.23151846295724
+		}
+	}, {
+		"properties": {
+			"NAME": "JEANMARD HOUSE",
+			"ADDRESS": "306 S PIERCE ST",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "1907",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/035-JeanmardHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.019222328118133,
+			"y": 30.231781941680516
+		}
+	}, {
+		"properties": {
+			"NAME": "LO CLARK HOUSE",
+			"ADDRESS": "112 CLARK CT",
+			"ARCH_TYPE": "ECLECTIC REVIVALISM",
+			"CONST_DATE": "1927",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/034-LOClarkHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.023019521857151,
+			"y": 30.212935447405059
+		}
+	}, {
+		"properties": {
+			"NAME": "1304 SAINT JOHN STREET HOUSE",
+			"ADDRESS": "1304 SAINT JOHN ST",
+			"ARCH_TYPE": "AMERICAN BUNGALOW",
+			"CONST_DATE": "CIRCA 1910",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/033-1304SaintJohnStreet.jpg"
+		},
+		"geometry": {
+			"x": -92.024138698286,
+			"y": 30.219179424998249
+		}
+	}, {
+		"properties": {
+			"NAME": "CROW GIRARD HOUSE",
+			"ADDRESS": "217 W UNIVERSITY AVE",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "1900",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/027-CrowGirardHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.020712864110365,
+			"y": 30.218100670354431
+		}
+	}, {
+		"properties": {
+			"NAME": "CYPRESS HOUSE",
+			"ADDRESS": "203 MYRTLE PL",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1900",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/026-CypressHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.027865281069381,
+			"y": 30.220862555097217
+		}
+	}, {
+		"properties": {
+			"NAME": "MOST HOLY SACRAMENT CONVENT",
+			"ADDRESS": "409 W SAINT MARY BLVD",
+			"ARCH_TYPE": "SPANISH REVIVAL",
+			"CONST_DATE": "1924",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/032-MostHolySacrament.jpg"
+		},
+		"geometry": {
+			"x": -92.024598074560743,
+			"y": 30.21633021298145
+		}
+	}, {
+		"properties": {
+			"NAME": "CAFFERY HOUSE",
+			"ADDRESS": "233 GARFIELD ST",
+			"ARCH_TYPE": "FRENCH COLONIAL",
+			"CONST_DATE": "CIRCA 1886",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/025-CafferyHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.01589145882302,
+			"y": 30.22578794977845
+		}
+	}, {
+		"properties": {
+			"NAME": "KOURY LAW OFFICE",
+			"ADDRESS": "120 E THIRD ST",
+			"ARCH_TYPE": "EASTLAKE",
+			"CONST_DATE": "1905",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/031-KouryLawOffice.jpg"
+		},
+		"geometry": {
+			"x": -92.013971035722676,
+			"y": 30.228921490550647
+		}
+	}, {
+		"properties": {
+			"NAME": "CLAYTON MARTIN HOUSE",
+			"ADDRESS": "416 W MAIN ST",
+			"ARCH_TYPE": "EASTLAKE",
+			"CONST_DATE": "1905",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/030-Clayton-MartinHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.022586818262184,
+			"y": 30.223157761616175
+		}
+	}, {
+		"properties": {
+			"NAME": "SAUCIER-BARES HOUSE",
+			"ADDRESS": "205 W UNIVERSITY AVE",
+			"ARCH_TYPE": "AMERICAN FOURSQUARE",
+			"CONST_DATE": "1917",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/029-Saucier-BaresHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.020325177850722,
+			"y": 30.217811888995939
+		}
+	}, {
+		"properties": {
+			"NAME": "SOULIER HOUSE",
+			"ADDRESS": "1220 JOHNSTON ST",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "1916",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/028-SoulierHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.019823246114782,
+			"y": 30.216936760576466
+		}
+	}, {
+		"properties": {
+			"NAME": "LEVY-LEBLANC HOUSE",
+			"ADDRESS": "111 MICHAEL ALLEN BLVD",
+			"ARCH_TYPE": "FOLK VICTORIAN",
+			"CONST_DATE": "CIRCA 1900",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/024-Levy-LeBlancHouse.jpg"
+		},
+		"geometry": {
+			"x": -91.9922800554462,
+			"y": 30.221021711553472
+		}
+	}, {
+		"properties": {
+			"NAME": "LOUIS BAZIN HOUSE",
+			"ADDRESS": "210 N MAGNOLIA ST",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1880",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/023-LouisBazinHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.012241347299508,
+			"y": 30.230446004787986
+		}
+	}, {
+		"properties": {
+			"NAME": "J ARTHUR ROY HOUSE",
+			"ADDRESS": "1204 JOHNSTON ST",
+			"ARCH_TYPE": "EASTLAKE",
+			"CONST_DATE": "1901",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/022-JArthurRoyHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.019601423295825,
+			"y": 30.217358661819016
+		}
+	}, {
+		"properties": {
+			"NAME": "DR JD TRAHAN HOUSE",
+			"ADDRESS": "814 S WASHINGTON ST",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1869",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/021-DrJDTrahanHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.022033681858019,
+			"y": 30.225545138785222
+		}
+	}, {
+		"properties": {
+			"NAME": "ONEZIPHORE COMEAUX HOUSE",
+			"ADDRESS": "1905 VEROT SCHOOL RD",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1880",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/020-OneziphoreComeauxHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.022131143828361,
+			"y": 30.160091411614903
+		}
+	}, {
+		"properties": {
+			"NAME": "MOSS BUILDING",
+			"ADDRESS": "557 JEFFERSON ST",
+			"ARCH_TYPE": "ITALIANATE",
+			"CONST_DATE": "1906",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/019-MossBuilding.jpg"
+		},
+		"geometry": {
+			"x": -92.018608234816213,
+			"y": 30.224230083680474
+		}
+	}, {
+		"properties": {
+			"NAME": "GREENHOUSE SENIOR CENTER",
+			"ADDRESS": "110 NE EVANGELINE THWY",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1900",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/018-GreenhouseSeniorCenter.jpg"
+		},
+		"geometry": {
+			"x": -92.011441564557487,
+			"y": 30.229852140176575
+		}
+	}, {
+		"properties": {
+			"NAME": "CAILLOUET HOUSE",
+			"ADDRESS": "120 CAILLOUET PL",
+			"ARCH_TYPE": "FRENCH COLONIAL",
+			"CONST_DATE": "CIRCA 1896",
+			"PHOTOS": "CAILLOUET_HOUSE",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/017-CaillouetHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.0186276158446,
+			"y": 30.220158552070966
+		}
+	}, {
+		"properties": {
+			"NAME": "DAUTERIVE HOUSE",
+			"ADDRESS": "117 CAILLOUET PL",
+			"ARCH_TYPE": "AMERICAN FOURSQUARE",
+			"CONST_DATE": "1919",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/042-DauteriveHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.018204234033149,
+			"y": 30.220153264640754
+		}
+	}, {
+		"properties": {
+			"NAME": "CHARGOIS HOUSE",
+			"ADDRESS": "309 POLK ST",
+			"ARCH_TYPE": "MODIFIED COLONIAL REVIVAL",
+			"CONST_DATE": "1915",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/016-ChargoisHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.017550856640327,
+			"y": 30.223660977663066
+		}
+	}, {
+		"properties": {
+			"NAME": "YANDLE HOUSE",
+			"ADDRESS": "200 CHERRY ST",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1907",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/015-200CherryStreet.jpg"
+		},
+		"geometry": {
+			"x": -92.022602319523145,
+			"y": 30.21801017918526
+		}
+	}, {
+		"properties": {
+			"NAME": "GOOD HOPE HALL",
+			"ADDRESS": "300 STEWART ST",
+			"ARCH_TYPE": "MODIFIED COLONIAL REVIVAL",
+			"CONST_DATE": "CIRCA 1880",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/014-GoodHopeHall.jpg"
+		},
+		"geometry": {
+			"x": -92.015013718821379,
+			"y": 30.219879316579934
+		}
+	}, {
+		"properties": {
+			"NAME": "CAFÉ VERMILIONVILLE",
+			"ADDRESS": "1304 W PINHOOK RD",
+			"ARCH_TYPE": "FRENCH COLONIAL",
+			"CONST_DATE": "CIRCA 1811",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/013-CafeVermilionville.jpg"
+		},
+		"geometry": {
+			"x": -92.016513079687385,
+			"y": 30.200559603098782
+		}
+	}, {
+		"properties": {
+			"NAME": "CHARLES MOUTON PLANTATION HOUSE",
+			"ADDRESS": "338 N STERLING ST",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1820",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/006-CharlesMoutonPlantation.jpg"
+		},
+		"geometry": {
+			"x": -92.009909486824441,
+			"y": 30.232219780359102
+		}
+	}, {
+		"properties": {
+			"NAME": "LAFAYETTE MIDDLE SCHOOL",
+			"ADDRESS": "1301 W UNIVERSITY AVE",
+			"ARCH_TYPE": "COLLEGIATE GOTHIC",
+			"CONST_DATE": "1926",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/012-LafayetteMiddleSchool.jpg"
+		},
+		"geometry": {
+			"x": -92.028099504183459,
+			"y": 30.224559962987421
+		}
+	}, {
+		"properties": {
+			"NAME": "LAFAYETTE HARDWARE STORE",
+			"ADDRESS": "121 W VERMILION ST",
+			"ARCH_TYPE": "ITALIANATE",
+			"CONST_DATE": "CIRCA 1890",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/011-LafayetteHardwareStore.jpg"
+		},
+		"geometry": {
+			"x": -92.019629161776422,
+			"y": 30.223873307968592
+		}
+	}, {
+		"properties": {
+			"NAME": "SAINT JOHN RECTORY",
+			"ADDRESS": "914 SAINT JOHN ST",
+			"ARCH_TYPE": "SPANISH REVIVAL",
+			"CONST_DATE": "1921",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/010-SaintJohnsRectory.jpg"
+		},
+		"geometry": {
+			"x": -92.023293071767384,
+			"y": 30.222407007600435
+		}
+	}, {
+		"properties": {
+			"NAME": "SAINT JOHN CATHEDRAL & PROPERTY",
+			"ADDRESS": "914 SAINT JOHN ST",
+			"ARCH_TYPE": "DUTCH ROMANESQUE REVIVAL",
+			"CONST_DATE": "1916",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/009-SaintJohnsCathedral.jpg"
+		},
+		"geometry": {
+			"x": -92.023449964520111,
+			"y": 30.222905748733805
+		}
+	}, {
+		"properties": {
+			"NAME": "JEAN BATISTE MOUTON HOUSE",
+			"ADDRESS": "310 SIDNEY MARTIN RD",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1835",
+			"PHOTOS": "JOHN_BATISTE_MOUTON_HOUSE",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/008-JeanBatisteMouton.jpg"
+		},
+		"geometry": {
+			"x": -92.012543532857777,
+			"y": 30.278356103643521
+		}
+	}, {
+		"properties": {
+			"NAME": "ALEXANDRE LATIOLAIS HOUSE",
+			"ADDRESS": "900 E BUTCHER SWITCH RD",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1790",
+			"SDE_PHOTOS": "\\\\LCGCrimeView\\GISData\\Photos\\ALEXANDRE_LATIOLAIS_HOUSE.tif"
+		},
+		"geometry": {
+			"x": -92.000624096335088,
+			"y": 30.286052914046778
+		}
+	}, {
+		"properties": {
+			"NAME": "FIRST UNITED METHODIST CHURCH",
+			"ADDRESS": "703 LEE AVE",
+			"ARCH_TYPE": "NEO-CLASSICAL",
+			"CONST_DATE": "1925",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/005-FirstUnitedMethodistChurch.jpg"
+		},
+		"geometry": {
+			"x": -92.017276794810513,
+			"y": 30.222555173929354
+		}
+	}, {
+		"properties": {
+			"NAME": "OLD CITY HALL",
+			"ADDRESS": "217 W MAIN ST",
+			"ARCH_TYPE": "ITALIANATE",
+			"CONST_DATE": "1898",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/004-OldCityHall.jpg"
+		},
+		"geometry": {
+			"x": -92.020452362365674,
+			"y": 30.222481829043133
+		}
+	}, {
+		"properties": {
+			"NAME": "OLD GUARANTY BANK",
+			"ADDRESS": "500 JEFFERSON ST",
+			"ARCH_TYPE": "NEO-CLASSICAL",
+			"CONST_DATE": "1905",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/003-OldGuaranteeBank.jpg"
+		},
+		"geometry": {
+			"x": -92.018624408739626,
+			"y": 30.225712459903054
+		}
+	}, {
+		"properties": {
+			"NAME": "ALEXANDRE MOUTON HOUSE",
+			"ADDRESS": "1122 LAFAYETTE ST",
+			"ARCH_TYPE": "FRENCH COLONIAL",
+			"CONST_DATE": "CIRCA 1810",
+			"SDE_PHOTOS": "\\\\LCGCrimeView\\GISData\\Photos\\ALEXANDRE_MOUTON_HOUSE.tif"
+		},
+		"geometry": {
+			"x": -92.020953809276293,
+			"y": 30.220887145901958
+		}
+	}, {
+		"properties": {
+			"NAME": "HOPE LODGE #145",
+			"ADDRESS": "116 E VERMILION ST",
+			"ARCH_TYPE": "GOTHIC REVIVAL",
+			"CONST_DATE": "1916",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/001-HopeLodge145.jpg"
+		},
+		"geometry": {
+			"x": -92.017987047831937,
+			"y": 30.223867368745726
+		}
+	}, {
+		"properties": {
+			"NAME": "SHADY BROOK HOUSE",
+			"ADDRESS": "127 CHERRY ST",
+			"ARCH_TYPE": "COLONIAL REVIVAL",
+			"CONST_DATE": "CIRCA 1912",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/037-ShadyBrookHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.021909529631387,
+			"y": 30.218100473948137
+		}
+	}, {
+		"properties": {
+			"NAME": "LA MAISON ACADIENNE FRANÇAISE",
+			"ADDRESS": "1511 JOHNSTON ST",
+			"ARCH_TYPE": "COLONIAL REVIVAL",
+			"CONST_DATE": "CIRCA 1920",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/046-LaMaisonAcadienneFrancaise.jpg"
+		},
+		"geometry": {
+			"x": -92.0217953425936,
+			"y": 30.213916441125452
+		}
+	}, {
+		"properties": {
+			"NAME": "HOHORST HOUSE",
+			"ADDRESS": "112 AZALEA ST",
+			"ARCH_TYPE": "AMERICAN FOURSQUARE",
+			"CONST_DATE": "1905",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/055-HoHorstHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.0250732723442,
+			"y": 30.221103408175868
+		}
+	}, {
+		"properties": {
+			"NAME": "WILLIAM BRANDT HOUSE",
+			"ADDRESS": "614 MADISON ST",
+			"ARCH_TYPE": "GREEK REVIVAL",
+			"CONST_DATE": "CIRCA 1840",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/056-WilliamBrandtHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.020075796771962,
+			"y": 30.227577025741745
+		}
+	}, {
+		"properties": {
+			"NAME": "LAFAYETTE TRAIN DEPOT",
+			"ADDRESS": "100 LEE AVE",
+			"ARCH_TYPE": "EARLY 20TH CENTURY MOVEMENT",
+			"CONST_DATE": "1911",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/057-LafayetteRailroadDepot.jpg"
+		},
+		"geometry": {
+			"x": -92.014214725754513,
+			"y": 30.226639786045777
+		}
+	}, {
+		"properties": {
+			"NAME": "MAURICE HEYMANN BUILDING",
+			"ADDRESS": "433 JEFFERSON ST",
+			"ARCH_TYPE": "ITALIAN RENAISSANCE REVIVAL",
+			"CONST_DATE": "1925",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/059-MauriceHeymannBldg.jpg"
+		},
+		"geometry": {
+			"x": -92.018094528599548,
+			"y": 30.225729901161014
+		}
+	}, {
+		"properties": {
+			"NAME": "SANS SOUCI",
+			"ADDRESS": "219 E VERMILION ST",
+			"ARCH_TYPE": "COMMERCIAL VERNACULAR",
+			"CONST_DATE": "CIRCA 1840",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/058-SansSouci.jpg"
+		},
+		"geometry": {
+			"x": -92.017094143790985,
+			"y": 30.224260602618923
+		}
+	}, {
+		"properties": {
+			"NAME": "CIRCA 1900 HOUSE",
+			"ADDRESS": "1300 DUGAS RD",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1900",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/053-Circa1901House.jpg"
+		},
+		"geometry": {
+			"x": -92.0892216225278,
+			"y": 30.283610601188641
+		}
+	}, {
+		"properties": {
+			"NAME": "DENBO-MONTGOMERY HOUSE",
+			"ADDRESS": "106 VERLANDER CIR",
+			"ARCH_TYPE": "AMERICAN BUNGALOW",
+			"CONST_DATE": "1898",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/054-Denbo-MontgomeryHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.021393516739408,
+			"y": 30.20470406318837
+		}
+	}, {
+		"properties": {
+			"NAME": "LOUIS ARCENEAUX HOUSE",
+			"ADDRESS": "300 FISHER RD",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1840",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/061-LouisArceneauxHouse.jpg"
+		},
+		"geometry": {
+			"x": -91.99512270364626,
+			"y": 30.215098681984117
+		}
+	}, {
+		"properties": {
+			"NAME": "ARMAND BROUSSARD HOUSE",
+			"ADDRESS": "300 FISHER RD",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1790",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/060-ArmandBroussardHouse.jpg"
+		},
+		"geometry": {
+			"x": -91.9935977208828,
+			"y": 30.216121240208818
+		}
+	}, {
+		"properties": {
+			"NAME": "JOSEPH BULLER HOUSE",
+			"ADDRESS": "300 FISHER RD",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1807",
+			"PHOTOS": null,
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/063-JosephBullerHouse.jpg"
+		},
+		"geometry": {
+			"x": -91.9943502455715,
+			"y": 30.215082397343092
+		}
+	}, {
+		"properties": {
+			"NAME": "JOSEPH FIRNBERG HOUSE",
+			"ADDRESS": "300 FISHER RD",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1860",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/062-JosephFirnbergHouse.jpg"
+		},
+		"geometry": {
+			"x": -91.99419445185373,
+			"y": 30.215680595799284
+		}
+	}, {
+		"properties": {
+			"NAME": "LAGRANGE FAMILY HOUSE",
+			"ADDRESS": "300 FISHER RD",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1830",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/064-LaGrangeFamilyHouse.jpg"
+		},
+		"geometry": {
+			"x": -91.994113194027932,
+			"y": 30.215427102995658
+		}
+	}, {
+		"properties": {
+			"NAME": "JUDICE INN",
+			"ADDRESS": "3134 JOHNSTON ST",
+			"ARCH_TYPE": "COMMERCIAL VERNACULAR",
+			"CONST_DATE": "1947",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/065-JudiceInn.jpg"
+		},
+		"geometry": {
+			"x": -92.047317492448684,
+			"y": 30.20400866867217
+		}
+	}, {
+		"properties": {
+			"NAME": "OSCAR DAIGLE HOUSE",
+			"ADDRESS": "512 W CONVENT ST",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1910",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/066-OscarDaigleHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.0235066940039,
+			"y": 30.221931939433553
+		}
+	}, {
+		"properties": {
+			"NAME": "COURET HOUSE",
+			"ADDRESS": "2763 NW EVANGELINE THWY",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "1836",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/067-CouretHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.026295670900581,
+			"y": 30.268661768596584
+		}
+	}, {
+		"properties": {
+			"NAME": "PRUDHOMME-BEGNAUD HOUSE",
+			"ADDRESS": "708 JEFFERSON BLVD",
+			"ARCH_TYPE": "COLONIAL REVIVAL",
+			"CONST_DATE": "CIRCA 1906",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/068-Prudhomme-BegnaudHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.008783462696428,
+			"y": 30.229911189972146
+		}
+	}, {
+		"properties": {
+			"NAME": "DR JOHN & EDITH MILES HOUSE",
+			"ADDRESS": "614 CALDER ST",
+			"ARCH_TYPE": "COLONIAL REVIVAL",
+			"CONST_DATE": "1948",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/070-DrJohnandEdithMiles.jpg"
+		},
+		"geometry": {
+			"x": -92.024737689078,
+			"y": 30.218560708510637
+		}
+	}, {
+		"properties": {
+			"NAME": "CARVER HOUSE",
+			"ADDRESS": "114 FLORIDA CT",
+			"ARCH_TYPE": "ENGLISH COTTAGE REVIVAL",
+			"CONST_DATE": "1929",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/069-CarverHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.022536834895249,
+			"y": 30.212086904607492
+		}
+	}, {
+		"properties": {
+			"NAME": "CUNNINGHAM HOUSE",
+			"ADDRESS": "120 CLARK CT",
+			"ARCH_TYPE": "ECLECTIC REVIVALISM",
+			"CONST_DATE": "1926",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/073-CunninghamHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.0231198659938,
+			"y": 30.212715212609808
+		}
+	}, {
+		"properties": {
+			"NAME": "LAFAYETTE'S SECOND CITY HALL",
+			"ADDRESS": "735 JEFFERSON ST",
+			"ARCH_TYPE": "ART DECO",
+			"CONST_DATE": "1939",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/071-LafayettesSecondCityHall.jpg"
+		},
+		"geometry": {
+			"x": -92.018561401505636,
+			"y": 30.221838999778839
+		}
+	}, {
+		"properties": {
+			"NAME": "GRADO BUILDING",
+			"ADDRESS": "631 JEFFERSON ST",
+			"ARCH_TYPE": "COMMERCIAL VERNACULAR",
+			"CONST_DATE": "CIRCA 1890",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/074-GradoBuilding.jpg"
+		},
+		"geometry": {
+			"x": -92.018601796052465,
+			"y": 30.223157881500544
+		}
+	}, {
+		"properties": {
+			"NAME": "EMELIE JUDICE MOUTON HOUSE",
+			"ADDRESS": "215 VERSAILLES BLVD",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "1908",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/072-EmilieJudiceMouton.jpg"
+		},
+		"geometry": {
+			"x": -92.025800296247326,
+			"y": 30.224426094692081
+		}
+	}, {
+		"properties": {
+			"NAME": "CIRCA 1901 HOUSE",
+			"ADDRESS": "523 SAINT JULIEN AVE",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1901",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/075-Circa1901House.jpg"
+		},
+		"geometry": {
+			"x": -92.03022581889671,
+			"y": 30.2153118057055
+		}
+	}, {
+		"properties": {
+			"NAME": "HEYMANN FOOD CENTER",
+			"ADDRESS": "201 E CONGRESS ST",
+			"ARCH_TYPE": "ART DECO",
+			"CONST_DATE": "1935",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/079-HeymannFoodCenter.jpg"
+		},
+		"geometry": {
+			"x": -92.017318666950629,
+			"y": 30.225154412760517
+		}
+	}, {
+		"properties": {
+			"NAME": "SOUTHERN BELL TELEPHONE & TELEGRAPH EXCHANGE",
+			"ADDRESS": "100 CENTRAL ST",
+			"ARCH_TYPE": "COMMERCIAL",
+			"CONST_DATE": "1927",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/077-SouthernBellTelephone.jpg"
+		},
+		"geometry": {
+			"x": -92.019817561313474,
+			"y": 30.225463578160856
+		}
+	}, {
+		"properties": {
+			"NAME": "FOURNET HOUSE",
+			"ADDRESS": "111 DUNREATH ST",
+			"ARCH_TYPE": "ECLECTIC",
+			"CONST_DATE": "1919",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/076-FournetHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.022240156609826,
+			"y": 30.219123790873269
+		}
+	}, {
+		"properties": {
+			"NAME": "NICKERSON-CHAPPUIS HOUSE",
+			"ADDRESS": "631 E SIMCOE ST",
+			"ARCH_TYPE": "AMERICAN BUNGALOW",
+			"CONST_DATE": "1931",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/078-Nickerson-ChappuisHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.009256111929759,
+			"y": 30.231019147324218
+		}
+	}, {
+		"properties": {
+			"NAME": "COLOMB-CHAUVIN HOUSE",
+			"ADDRESS": "424 E VERMILION ST",
+			"ARCH_TYPE": "AMERICAN BUNGALOW",
+			"CONST_DATE": "1921",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/080-Colomb-ChauvinHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.015797663483326,
+			"y": 30.223304649737941
+		}
+	}, {
+		"properties": {
+			"NAME": "MOSS HOUSE",
+			"ADDRESS": "212 SAINT CHARLES ST",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1910",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/081-MossHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.007625928494193,
+			"y": 30.228325016724291
+		}
+	}, {
+		"properties": {
+			"NAME": "TRIBUNE BUILDING",
+			"ADDRESS": "212 E VERMILION ST",
+			"ARCH_TYPE": "ECLECTIC",
+			"CONST_DATE": "CIRCA 1928",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/082-TribuneBuilding.jpg"
+		},
+		"geometry": {
+			"x": -92.017258085794509,
+			"y": 30.223932278804057
+		}
+	}, {
+		"properties": {
+			"NAME": "GARFIELD HOUSE",
+			"ADDRESS": "402 GARFIELD ST",
+			"ARCH_TYPE": "AMERICAN FOURSQUARE",
+			"CONST_DATE": "CIRCA 1890",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/083-GarfieldHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.015694425162991,
+			"y": 30.22506331619773
+		}
+	}, {
+		"properties": {
+			"NAME": "SAINT ANNE'S INFIRMARY",
+			"ADDRESS": "1317 JEFFERSON ST",
+			"ARCH_TYPE": "ECLECTIC",
+			"CONST_DATE": "1937",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/084-SaintAnnsInfirmary.jpg"
+		},
+		"geometry": {
+			"x": -92.0150336913553,
+			"y": 30.218985913283944
+		}
+	}, {
+		"properties": {
+			"NAME": "GIVENS TOWNHOUSE",
+			"ADDRESS": "324 N STERLING ST",
+			"ARCH_TYPE": "EASTLAKE",
+			"CONST_DATE": "1893",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/085-GivensTownhouse.jpg"
+		},
+		"geometry": {
+			"x": -92.010110061334146,
+			"y": 30.231728226256603
+		}
+	}, {
+		"properties": {
+			"NAME": "DR LOUIS B LONG HOUSE",
+			"ADDRESS": "115 FLORIDA CT",
+			"ARCH_TYPE": "ENGLISH TUDOR REVIVAL",
+			"CONST_DATE": "1929",
+			"SDE_PHOTOS": "http://lafayettela.gov/PZD/Zoning/Historic%20Building%20Photos/086-DrLouisBLongHouse.jpg"
+		},
+		"geometry": {
+			"x": -92.0222052123753,
+			"y": 30.21181466454745
+		}
+	}, {
+		"properties": {
+			"NAME": "KELLER'S BAKERY",
+			"ADDRESS": "1012 JEFFERSON ST",
+			"ARCH_TYPE": "MODERN",
+			"CONST_DATE": "1948",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.0176749180215,
+			"y": 30.220225364910956
+		}
+	}, {
+		"properties": {
+			"NAME": "FRANK JEANMARD HOUSE",
+			"ADDRESS": "202 DUNREATH ST",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1910",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.023298866908348,
+			"y": 30.218614763425315
+		}
+	}, {
+		"properties": {
+			"NAME": "JOHN MONTGOMERY HOUSE",
+			"ADDRESS": "120 DUNREATH ST",
+			"ARCH_TYPE": "AMERICAN BUNGALOW",
+			"CONST_DATE": "CIRCA 1910",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.022834131037129,
+			"y": 30.219151735830909
+		}
+	}, {
+		"properties": {
+			"NAME": "MCFADDIN HOUSE",
+			"ADDRESS": "351 ELIZABETH AVE",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1904",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.011483248851221,
+			"y": 30.234710942553562
+		}
+	}, {
+		"properties": {
+			"NAME": "JOHN NICKERSON HOUSE",
+			"ADDRESS": "310 N STERLING ST",
+			"ARCH_TYPE": "QUEEN ANNE REVIVAL",
+			"CONST_DATE": "CIRCA 1891",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.010318643760044,
+			"y": 30.231199940238223
+		}
+	}, {
+		"properties": {
+			"NAME": "DR THOMAS B HOPKINS HOUSE",
+			"ADDRESS": "317 S PIERCE ST",
+			"ARCH_TYPE": "FRENCH COLONIAL",
+			"CONST_DATE": "CIRCA 1902",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.01871479237866,
+			"y": 30.231470562934994
+		}
+	}, {
+		"properties": {
+			"NAME": "JUDICE MIDDLE SCHOOL",
+			"ADDRESS": "2645 S FIELDSPAN RD",
+			"ARCH_TYPE": "JACOBEAN REVIVAL",
+			"CONST_DATE": "1929",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.140657111800863,
+			"y": 30.167348865230224
+		}
+	}, {
+		"properties": {
+			"NAME": "MAISON ACADIENNE",
+			"ADDRESS": "300 FISHER RD",
+			"ARCH_TYPE": "FRENCH CREOLE",
+			"CONST_DATE": "CIRCA 1850",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -91.994490915738609,
+			"y": 30.215523283379749
+		}
+	}, {
+		"properties": {
+			"NAME": "MAISON REVILLON",
+			"ADDRESS": "1012 S WASHINGTON ST",
+			"ARCH_TYPE": "GREEK REVIVAL",
+			"CONST_DATE": "CIRCA 1880",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.022113183715632,
+			"y": 30.222362736688012
+		}
+	}, {
+		"properties": {
+			"NAME": "EVANGELINE HOTEL",
+			"ADDRESS": "302 JEFFERSON ST",
+			"ARCH_TYPE": "ITALIAN RENAISSANCE REVIVAL",
+			"CONST_DATE": "1928",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.0168677917876,
+			"y": 30.227163341041564
+		}
+	}, {
+		"properties": {
+			"NAME": "MAURICE POLLINGUE HOUSE",
+			"ADDRESS": "126 DUNREATH ST",
+			"ARCH_TYPE": "AMERICAN BUNGALOW",
+			"CONST_DATE": "CIRCA 1910",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.022949367283957,
+			"y": 30.219010611169324
+		}
+	}, {
+		"properties": {
+			"NAME": "GEORGE BERNARD HOUSE",
+			"ADDRESS": "221 DUNREATH ST",
+			"ARCH_TYPE": "AMERICAN BUNGALOW",
+			"CONST_DATE": "CIRCA 1919",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.023410054570562,
+			"y": 30.217845354547109
+		}
+	}, {
+		"properties": {
+			"NAME": "LOUISE & MILDRED MANN HOUSE",
+			"ADDRESS": "314 DUNREATH ST",
+			"ARCH_TYPE": "ENGLISH COTTAGE REVIVAL",
+			"CONST_DATE": "1937",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.024569835069244,
+			"y": 30.217372206663644
+		}
+	}, {
+		"properties": {
+			"NAME": "SAINT PAUL CONVENT",
+			"ADDRESS": "518 HOPKINS ST",
+			"ARCH_TYPE": "AMERICAN FOURSQUARE",
+			"CONST_DATE": "1950",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.02271785063985,
+			"y": 30.233410217792382
+		}
+	}, {
+		"properties": {
+			"NAME": "GOOD HOPE CHAPEL",
+			"ADDRESS": "301 E CONVENT ST",
+			"ARCH_TYPE": "GOTHIC REVIVAL",
+			"CONST_DATE": "1950",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.015302821523576,
+			"y": 30.219678137795725
+		}
+	}, {
+		"properties": {
+			"NAME": "LAFAYETTE WHOLESALE GROCERY WAREHOUSE",
+			"ADDRESS": "333 MONROE ST",
+			"ARCH_TYPE": "COMMERCIAL VERNACULAR",
+			"CONST_DATE": "CIRCA 1926",
+			"SDE_PHOTOS": null
+		},
+		"geometry": {
+			"x": -92.017101310839948,
+			"y": 30.229238935287576
+		}
+	}]
+}
